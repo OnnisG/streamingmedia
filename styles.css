@@ -50,9 +50,6 @@ dl{
     
 }
 
-dd{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 dt{
     font-weight: lighter;
@@ -71,7 +68,6 @@ footer{
 }
 
 .more{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-decoration: none;
     background-color: #590242;
@@ -232,7 +228,6 @@ audio::-webkit-media-controls-enclosure{
 }
 
 #trending h3{
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-size: 16px;
    color: #590242;
    margin-top: -5px;
@@ -296,15 +291,11 @@ audio::-webkit-media-controls-enclosure{
 }
 
 #playlists section h3{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     color: #ffffff;
     line-height: 1em;
 }
 
-#playlists p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 #curated .scroll{
     background-color: #030A8C;
@@ -325,15 +316,12 @@ audio::-webkit-media-controls-enclosure{
 }
 
 #curated section h3{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     color: #ffffff;
     line-height: 1em;
 }
 
- #curated p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
 
 .scroll{
     display: grid;
